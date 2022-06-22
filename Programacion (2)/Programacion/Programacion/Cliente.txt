@@ -1,0 +1,11 @@
+1,Jose Criollo,15062022
+2,Maria Perez,15062022
+2,Maria Perez,15062022
+3,Felipe,15062022
+3,Alejandra Paute,15062022
+4,Mayra Jimenez,15062022
+5,Santiago Chiriboga,150620223
+4,Andres,15062022
+4,Andres,15062022
+5,Juan Carlos,15062022
+5,Juan Carlos,15062022
